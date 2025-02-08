@@ -12,7 +12,7 @@ Confirm installation
 `pip list`
 
 then run backend:
-python app.py
+`python app.py`
 
 Now head to the Frontend Readme
 
